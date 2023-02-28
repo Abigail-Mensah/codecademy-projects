@@ -39,3 +39,4 @@ storyWords.forEach((word)=>{
 
 // console.log( unnecessaryWord);
 console.log(storyWords.join(' '));
+
